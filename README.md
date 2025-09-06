@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Jerry Reeves
 
-<!--
-**j2504/j2504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS in CS | 🛠️ IT Support → ☁️ Cloud → 🔐 Cloud Security
 
-Here are some ideas to get you started:
+I’m transitioning from software dev into IT Support and documenting hands‑on labs in AD, PowerShell, Intune, and AWS. This is my living portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current focus
+- IT Support Labs: AD, PowerShell, Intune, Networking
+- Cloud Prep: AWS IAM, EC2, VPC, Terraform
+
+## 🧭 Roadmap
+IT Support → Cloud Engineering → Cloud Security
+
+📬 Connect: [LinkedIn](https://www.linkedin.com/in/jerry-reeves-0736a2190)
